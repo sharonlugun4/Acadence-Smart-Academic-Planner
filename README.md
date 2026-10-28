@@ -1,4 +1,5 @@
-# Acadence — Smart Study Planner
+# Acadence — Smart-Academic-Planner
+
 
 A full-stack academic task planner built with React + Vite, Node.js + Express, and MySQL.
 
